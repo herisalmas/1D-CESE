@@ -1,13 +1,13 @@
 1D-CESE
 =======
 
-A 1D CESE C++ code
+A 1D CESE C++ code with an OOP approach
+This code uses the boost libraries
 
 A very straightforward code, in the code, you can modify the value N and length to refine the "mesh "
 #define N 10000
-#define length 1
 
-The values of x1 and x2 are the initial and final distance of the mesh. x2-x1 should be equal to length
+The values of x1 and x2 are the initial and final distance of the mesh. 
 
 #define x1 0
 #define x2 1
