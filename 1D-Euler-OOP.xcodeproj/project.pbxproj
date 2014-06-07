@@ -7,31 +7,31 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		76C01EEC1844D5D800761E8D /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 76C01EEB1844D5D800761E8D /* main.cpp */; };
-		76C01EEE1844D5D800761E8D /* _D_EULER_CESE.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 76C01EED1844D5D800761E8D /* _D_EULER_CESE.1 */; };
+		76795D6A18D1A64000D1E619 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 76795D6918D1A64000D1E619 /* main.cpp */; };
+		76795D6C18D1A64000D1E619 /* _D_Euler_OOP.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 76795D6B18D1A64000D1E619 /* _D_Euler_OOP.1 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		76C01EE61844D5D800761E8D /* CopyFiles */ = {
+		76795D6418D1A64000D1E619 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
 			dstSubfolderSpec = 0;
 			files = (
-				76C01EEE1844D5D800761E8D /* _D_EULER_CESE.1 in CopyFiles */,
+				76795D6C18D1A64000D1E619 /* _D_Euler_OOP.1 in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		76C01EE81844D5D800761E8D /* 1D-EULER-CESE */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "1D-EULER-CESE"; sourceTree = BUILT_PRODUCTS_DIR; };
-		76C01EEB1844D5D800761E8D /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		76C01EED1844D5D800761E8D /* _D_EULER_CESE.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = _D_EULER_CESE.1; sourceTree = "<group>"; };
+		76795D6618D1A64000D1E619 /* 1D-Euler-OOP */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "1D-Euler-OOP"; sourceTree = BUILT_PRODUCTS_DIR; };
+		76795D6918D1A64000D1E619 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		76795D6B18D1A64000D1E619 /* _D_Euler_OOP.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = _D_Euler_OOP.1; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		76C01EE51844D5D800761E8D /* Frameworks */ = {
+		76795D6318D1A64000D1E619 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -41,90 +41,90 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		76C01EDF1844D5D700761E8D = {
+		76795D5D18D1A64000D1E619 = {
 			isa = PBXGroup;
 			children = (
-				76C01EEA1844D5D800761E8D /* 1D-EULER-CESE */,
-				76C01EE91844D5D800761E8D /* Products */,
+				76795D6818D1A64000D1E619 /* 1D-Euler-OOP */,
+				76795D6718D1A64000D1E619 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		76C01EE91844D5D800761E8D /* Products */ = {
+		76795D6718D1A64000D1E619 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				76C01EE81844D5D800761E8D /* 1D-EULER-CESE */,
+				76795D6618D1A64000D1E619 /* 1D-Euler-OOP */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		76C01EEA1844D5D800761E8D /* 1D-EULER-CESE */ = {
+		76795D6818D1A64000D1E619 /* 1D-Euler-OOP */ = {
 			isa = PBXGroup;
 			children = (
-				76C01EEB1844D5D800761E8D /* main.cpp */,
-				76C01EED1844D5D800761E8D /* _D_EULER_CESE.1 */,
+				76795D6918D1A64000D1E619 /* main.cpp */,
+				76795D6B18D1A64000D1E619 /* _D_Euler_OOP.1 */,
 			);
-			path = "1D-EULER-CESE";
+			path = "1D-Euler-OOP";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		76C01EE71844D5D800761E8D /* 1D-EULER-CESE */ = {
+		76795D6518D1A64000D1E619 /* 1D-Euler-OOP */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 76C01EF11844D5D800761E8D /* Build configuration list for PBXNativeTarget "1D-EULER-CESE" */;
+			buildConfigurationList = 76795D6F18D1A64000D1E619 /* Build configuration list for PBXNativeTarget "1D-Euler-OOP" */;
 			buildPhases = (
-				76C01EE41844D5D800761E8D /* Sources */,
-				76C01EE51844D5D800761E8D /* Frameworks */,
-				76C01EE61844D5D800761E8D /* CopyFiles */,
+				76795D6218D1A64000D1E619 /* Sources */,
+				76795D6318D1A64000D1E619 /* Frameworks */,
+				76795D6418D1A64000D1E619 /* CopyFiles */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "1D-EULER-CESE";
-			productName = "1D-EULER-CESE";
-			productReference = 76C01EE81844D5D800761E8D /* 1D-EULER-CESE */;
+			name = "1D-Euler-OOP";
+			productName = "1D-Euler-OOP";
+			productReference = 76795D6618D1A64000D1E619 /* 1D-Euler-OOP */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		76C01EE01844D5D800761E8D /* Project object */ = {
+		76795D5E18D1A64000D1E619 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0500;
 				ORGANIZATIONNAME = "Patita Co.";
 			};
-			buildConfigurationList = 76C01EE31844D5D800761E8D /* Build configuration list for PBXProject "1D-EULER-CESE" */;
+			buildConfigurationList = 76795D6118D1A64000D1E619 /* Build configuration list for PBXProject "1D-Euler-OOP" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 			);
-			mainGroup = 76C01EDF1844D5D700761E8D;
-			productRefGroup = 76C01EE91844D5D800761E8D /* Products */;
+			mainGroup = 76795D5D18D1A64000D1E619;
+			productRefGroup = 76795D6718D1A64000D1E619 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				76C01EE71844D5D800761E8D /* 1D-EULER-CESE */,
+				76795D6518D1A64000D1E619 /* 1D-Euler-OOP */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		76C01EE41844D5D800761E8D /* Sources */ = {
+		76795D6218D1A64000D1E619 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				76C01EEC1844D5D800761E8D /* main.cpp in Sources */,
+				76795D6A18D1A64000D1E619 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		76C01EEF1844D5D800761E8D /* Debug */ = {
+		76795D6D18D1A64000D1E619 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -161,7 +161,7 @@
 			};
 			name = Debug;
 		};
-		76C01EF01844D5D800761E8D /* Release */ = {
+		76795D6E18D1A64000D1E619 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -192,14 +192,14 @@
 			};
 			name = Release;
 		};
-		76C01EF21844D5D800761E8D /* Debug */ = {
+		76795D7018D1A64000D1E619 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
 		};
-		76C01EF31844D5D800761E8D /* Release */ = {
+		76795D7118D1A64000D1E619 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -209,24 +209,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		76C01EE31844D5D800761E8D /* Build configuration list for PBXProject "1D-EULER-CESE" */ = {
+		76795D6118D1A64000D1E619 /* Build configuration list for PBXProject "1D-Euler-OOP" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				76C01EEF1844D5D800761E8D /* Debug */,
-				76C01EF01844D5D800761E8D /* Release */,
+				76795D6D18D1A64000D1E619 /* Debug */,
+				76795D6E18D1A64000D1E619 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		76C01EF11844D5D800761E8D /* Build configuration list for PBXNativeTarget "1D-EULER-CESE" */ = {
+		76795D6F18D1A64000D1E619 /* Build configuration list for PBXNativeTarget "1D-Euler-OOP" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				76C01EF21844D5D800761E8D /* Debug */,
-				76C01EF31844D5D800761E8D /* Release */,
+				76795D7018D1A64000D1E619 /* Debug */,
+				76795D7118D1A64000D1E619 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 76C01EE01844D5D800761E8D /* Project object */;
+	rootObject = 76795D5E18D1A64000D1E619 /* Project object */;
 }

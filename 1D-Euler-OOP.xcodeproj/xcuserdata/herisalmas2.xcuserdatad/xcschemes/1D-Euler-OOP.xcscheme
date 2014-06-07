@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "76C01EE71844D5D800761E8D"
-               BuildableName = "1D-EULER-CESE"
-               BlueprintName = "1D-EULER-CESE"
-               ReferencedContainer = "container:1D-EULER-CESE.xcodeproj">
+               BlueprintIdentifier = "76795D6518D1A64000D1E619"
+               BuildableName = "1D-Euler-OOP"
+               BlueprintName = "1D-Euler-OOP"
+               ReferencedContainer = "container:1D-Euler-OOP.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "76C01EE71844D5D800761E8D"
-            BuildableName = "1D-EULER-CESE"
-            BlueprintName = "1D-EULER-CESE"
-            ReferencedContainer = "container:1D-EULER-CESE.xcodeproj">
+            BlueprintIdentifier = "76795D6518D1A64000D1E619"
+            BuildableName = "1D-Euler-OOP"
+            BlueprintName = "1D-Euler-OOP"
+            ReferencedContainer = "container:1D-Euler-OOP.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -51,10 +51,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "76C01EE71844D5D800761E8D"
-            BuildableName = "1D-EULER-CESE"
-            BlueprintName = "1D-EULER-CESE"
-            ReferencedContainer = "container:1D-EULER-CESE.xcodeproj">
+            BlueprintIdentifier = "76795D6518D1A64000D1E619"
+            BuildableName = "1D-Euler-OOP"
+            BlueprintName = "1D-Euler-OOP"
+            ReferencedContainer = "container:1D-Euler-OOP.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -69,10 +69,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "76C01EE71844D5D800761E8D"
-            BuildableName = "1D-EULER-CESE"
-            BlueprintName = "1D-EULER-CESE"
-            ReferencedContainer = "container:1D-EULER-CESE.xcodeproj">
+            BlueprintIdentifier = "76795D6518D1A64000D1E619"
+            BuildableName = "1D-Euler-OOP"
+            BlueprintName = "1D-Euler-OOP"
+            ReferencedContainer = "container:1D-Euler-OOP.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

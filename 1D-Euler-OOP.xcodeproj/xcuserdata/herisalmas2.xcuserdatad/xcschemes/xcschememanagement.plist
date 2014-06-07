@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>1D-EULER-CESE.xcscheme</key>
+		<key>1D-Euler-OOP.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>76C01EE71844D5D800761E8D</key>
+		<key>76795D6518D1A64000D1E619</key>
 		<dict>
 			<key>primary</key>
 			<true/>
